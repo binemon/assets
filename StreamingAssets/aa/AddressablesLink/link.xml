@@ -32,13 +32,12 @@
     <type fullname="UnityEngine.Animator" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="HighlightPlus.HighlightEffect" preserve="all" />
     <type fullname="BinemonObject" preserve="all" />
-    <type fullname="MonEyesAnimation" preserve="all" />
     <type fullname="MonAvatarCollider" preserve="all" />
-    <type fullname="EggObject" preserve="all" />
     <type fullname="BinemonVisual" preserve="all" />
     <type fullname="DefaultColorPack" preserve="all" />
+    <type fullname="MonEyesAnimation" preserve="all" />
+    <type fullname="EggObject" preserve="all" />
     <type fullname="MonVisualConfig" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
