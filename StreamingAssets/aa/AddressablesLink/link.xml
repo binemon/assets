@@ -19,7 +19,6 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
-    <type fullname="UnityEngine.Light" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
@@ -33,11 +32,11 @@
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="BinemonObject" preserve="all" />
+    <type fullname="EggObject" preserve="all" />
     <type fullname="MonAvatarCollider" preserve="all" />
     <type fullname="BinemonVisual" preserve="all" />
     <type fullname="DefaultColorPack" preserve="all" />
     <type fullname="MonEyesAnimation" preserve="all" />
-    <type fullname="EggObject" preserve="all" />
     <type fullname="MonVisualConfig" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
