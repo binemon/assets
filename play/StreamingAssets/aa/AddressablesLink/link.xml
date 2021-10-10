@@ -55,6 +55,7 @@
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
     <type fullname="RankRewardLayer" preserve="all" />
+    <type fullname="HUDUserRename" preserve="all" />
     <type fullname="RollerMat" preserve="all" />
     <type fullname="TabView" preserve="all" />
     <type fullname="HUDBattle" preserve="all" />
@@ -88,8 +89,10 @@
     <type fullname="HUDAfterFusion" preserve="all" />
     <type fullname="TutorialStepView" preserve="all" />
     <type fullname="RankView" preserve="all" />
+    <type fullname="WeeklyRewardCell" preserve="all" />
     <type fullname="HUDRivalDefense" preserve="all" />
     <type fullname="TutorialHandView" preserve="all" />
+    <type fullname="WeeklyRewardLayer" preserve="all" />
     <type fullname="HUDRankReward" preserve="all" />
     <type fullname="PetAvatarView" preserve="all" />
     <type fullname="RankRewardCell" preserve="all" />
@@ -103,6 +106,8 @@
     <type fullname="HUDPickRivals" preserve="all" />
     <type fullname="UIShakenEffect" preserve="all" />
     <type fullname="HUDWorldMap" preserve="all" />
+    <type fullname="BattleRewardLayer" preserve="all" />
+    <type fullname="HUDWeeklyReward" preserve="all" />
     <type fullname="MonAvatarCollider" preserve="all" />
     <type fullname="BinemonVisual" preserve="all" />
     <type fullname="DefaultColorPack" preserve="all" />
