@@ -18,6 +18,7 @@
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
@@ -57,14 +58,17 @@
     <type fullname="RankRewardLayer" preserve="all" />
     <type fullname="HUDUserRename" preserve="all" />
     <type fullname="RollerMat" preserve="all" />
+    <type fullname="RecordView" preserve="all" />
     <type fullname="TabView" preserve="all" />
     <type fullname="HUDBattle" preserve="all" />
     <type fullname="HUDTutorial" preserve="all" />
+    <type fullname="CampaignMapBG" preserve="all" />
     <type fullname="CustomTabViewInventory" preserve="all" />
     <type fullname="HUDLogout" preserve="all" />
     <type fullname="HUDHomeMenu" preserve="all" />
     <type fullname="SkillInfo" preserve="all" />
     <type fullname="StarGroup" preserve="all" />
+    <type fullname="HUDPVEMap" preserve="all" />
     <type fullname="EnhancedUI.EnhancedScroller.EnhancedScrollerCellView" preserve="all" />
     <type fullname="HUDRename" preserve="all" />
     <type fullname="RankIndexView" preserve="all" />
@@ -74,16 +78,19 @@
     <type fullname="SeasonRewardLayer" preserve="all" />
     <type fullname="UIFlyingText" preserve="all" />
     <type fullname="HUDBattlePause" preserve="all" />
+    <type fullname="HUDPVECampaign" preserve="all" />
     <type fullname="HUDRankUp" preserve="all" />
     <type fullname="CameraRaycaster" preserve="all" />
     <type fullname="HUDPromotion" preserve="all" />
     <type fullname="HUDShop" preserve="all" />
+    <type fullname="HUDRecordsBattle" preserve="all" />
     <type fullname="HUDLoading" preserve="all" />
     <type fullname="EnhancedUI.EnhancedScroller.EnhancedScroller" preserve="all" />
     <type fullname="ImageAnimation" preserve="all" />
     <type fullname="HUDBreakEgg" preserve="all" />
     <type fullname="BinemonStatsView" preserve="all" />
     <type fullname="Ez.Examples.AutoRotate" preserve="all" />
+    <type fullname="HUDRewardPool" preserve="all" />
     <type fullname="HorizontalToggle" preserve="all" />
     <type fullname="TopInfoView" preserve="all" />
     <type fullname="HUDAfterFusion" preserve="all" />
@@ -101,21 +108,21 @@
     <type fullname="HUDSetting" preserve="all" />
     <type fullname="HUDInventory" preserve="all" />
     <type fullname="HUDLogin" preserve="all" />
+    <type fullname="ChapterView" preserve="all" />
     <type fullname="SFXButtonPlayer" preserve="all" />
     <type fullname="IconUltimateView" preserve="all" />
     <type fullname="HUDPickRivals" preserve="all" />
     <type fullname="UIShakenEffect" preserve="all" />
+    <type fullname="StageView" preserve="all" />
     <type fullname="HUDWorldMap" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
-    <type fullname="HUDWeeklyReward" preserve="all" />
+    <type fullname="HUDBattlePveResult" preserve="all" />
     <type fullname="MonAvatarCollider" preserve="all" />
     <type fullname="BinemonVisual" preserve="all" />
     <type fullname="DefaultColorPack" preserve="all" />
     <type fullname="MonEyesAnimation" preserve="all" />
     <type fullname="MonVisualConfig" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEditor.MonoScript" preserve="all" />
+    <type fullname="BattleField" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
