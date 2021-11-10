@@ -18,7 +18,6 @@
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
-    <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
@@ -45,8 +44,10 @@
     <type fullname="HUDBattleResult" preserve="all" />
     <type fullname="Doozy.Engine.UI.UIView" preserve="all" />
     <type fullname="LightShafts" preserve="all" />
+    <type fullname="HUDCreateRoom" preserve="all" />
     <type fullname="HUDDialog" preserve="all" />
     <type fullname="TouchAndDrag" preserve="all" />
+    <type fullname="PickRoomCell" preserve="all" />
     <type fullname="HUDSeasonRankUp" preserve="all" />
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
@@ -55,6 +56,7 @@
     <type fullname="HUDCurrencyEffect" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
+    <type fullname="HUDJoinRoom" preserve="all" />
     <type fullname="RankRewardLayer" preserve="all" />
     <type fullname="HUDUserRename" preserve="all" />
     <type fullname="RollerMat" preserve="all" />
@@ -67,13 +69,13 @@
     <type fullname="HUDLogout" preserve="all" />
     <type fullname="HUDHomeMenu" preserve="all" />
     <type fullname="SkillInfo" preserve="all" />
-    <type fullname="StarGroup" preserve="all" />
     <type fullname="HUDPVEMap" preserve="all" />
     <type fullname="EnhancedUI.EnhancedScroller.EnhancedScrollerCellView" preserve="all" />
     <type fullname="HUDRename" preserve="all" />
     <type fullname="RankIndexView" preserve="all" />
     <type fullname="HUDMonInventory" preserve="all" />
     <type fullname="HUDMonInfo" preserve="all" />
+    <type fullname="HUDPickRoom" preserve="all" />
     <type fullname="CustomTabviewMonClass" preserve="all" />
     <type fullname="SeasonRewardLayer" preserve="all" />
     <type fullname="UIFlyingText" preserve="all" />
@@ -123,6 +125,12 @@
     <type fullname="MonEyesAnimation" preserve="all" />
     <type fullname="MonVisualConfig" preserve="all" />
     <type fullname="BattleField" preserve="all" />
+    <type fullname="StorytellerView" preserve="all" />
+    <type fullname="HUDPVEStory" preserve="all" />
+    <type fullname="HUDScholarship" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
@@ -185,5 +193,8 @@
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
     <type fullname="UnityEngine.Canvas" preserve="all" />
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
   </assembly>
 </linker>
