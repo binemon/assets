@@ -53,12 +53,14 @@
     <type fullname="HUDSquidGamePlayLimit" preserve="all" />
     <type fullname="HUDSquidGameMatchFailed" preserve="all" />
     <type fullname="HUDSeasonRankUp" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
     <type fullname="RivalView" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
     <type fullname="TabParent" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
+    <type fullname="UIParticleExtension" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
     <type fullname="HUDJoinRoom" preserve="all" />
@@ -162,12 +164,12 @@
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
-    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
-    <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
-    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
