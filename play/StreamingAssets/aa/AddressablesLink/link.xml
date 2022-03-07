@@ -134,6 +134,7 @@
     <type fullname="HUDSquidGameResult" preserve="all" />
     <type fullname="HUDWorldMap" preserve="all" />
     <type fullname="HUDFragment" preserve="all" />
+    <type fullname="MetaverseTimer" preserve="all" />
     <type fullname="HUDPickLobbyMode" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
     <type fullname="CustomGridLayout" preserve="all" />
@@ -168,8 +169,8 @@
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
-    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
