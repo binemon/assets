@@ -60,6 +60,7 @@
     <type fullname="HUDUnlockSkill" preserve="all" />
     <type fullname="TabParent" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
+    <type fullname="HUDSquidGameResultV2" preserve="all" />
     <type fullname="UIParticleExtension" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
@@ -92,6 +93,7 @@
     <type fullname="HUDBattlePause" preserve="all" />
     <type fullname="HUDPVECampaign" preserve="all" />
     <type fullname="HUDRankUp" preserve="all" />
+    <type fullname="SquidGamePlayerResult" preserve="all" />
     <type fullname="CameraRaycaster" preserve="all" />
     <type fullname="HUDPromotion" preserve="all" />
     <type fullname="HUDShop" preserve="all" />
@@ -106,6 +108,7 @@
     <type fullname="InventoryTabGem" preserve="all" />
     <type fullname="HUDRewardPool" preserve="all" />
     <type fullname="HorizontalToggle" preserve="all" />
+    <type fullname="PanelMetaverseLeaderboard" preserve="all" />
     <type fullname="TopInfoView" preserve="all" />
     <type fullname="HUDAfterFusion" preserve="all" />
     <type fullname="TutorialStepView" preserve="all" />
@@ -137,6 +140,7 @@
     <type fullname="MetaverseTimer" preserve="all" />
     <type fullname="HUDPickLobbyMode" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
+    <type fullname="MetaverseLBItemView" preserve="all" />
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
     <type fullname="MonAvatarCollider" preserve="all" />
@@ -196,6 +200,7 @@
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
     <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
   </assembly>
