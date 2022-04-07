@@ -46,7 +46,6 @@
     <type fullname="Doozy.Engine.UI.UIView" preserve="all" />
     <type fullname="StorytellerView" preserve="all" />
     <type fullname="HUDPVEStory" preserve="all" />
-    <type fullname="BattleField" preserve="all" />
     <type fullname="HUDScholarship" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
