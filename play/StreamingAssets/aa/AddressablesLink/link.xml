@@ -28,6 +28,7 @@
     <type fullname="UnityEngine.ComputeShader" preserve="all" />
     <type fullname="UnityEngine.RenderTexture" preserve="all" />
     <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
@@ -58,6 +59,7 @@
     <type fullname="HUDPVEStory" preserve="all" />
     <type fullname="HUDScholarship" preserve="all" />
     <type fullname="HUDBattleResult" preserve="all" />
+    <type fullname="MysteryBoxView" preserve="all" />
     <type fullname="HUDSquidGameTutorial" preserve="all" />
     <type fullname="LightShafts" preserve="all" />
     <type fullname="HUDCreateRoom" preserve="all" />
@@ -70,6 +72,7 @@
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
     <type fullname="RivalView" preserve="all" />
+    <type fullname="EquipmentView" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
     <type fullname="TabParent" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
@@ -127,6 +130,7 @@
     <type fullname="TutorialStepView" preserve="all" />
     <type fullname="RankView" preserve="all" />
     <type fullname="WeeklyRewardCell" preserve="all" />
+    <type fullname="EquipmentDetail" preserve="all" />
     <type fullname="HUDSquidGamePickMon" preserve="all" />
     <type fullname="HUDRivalDefense" preserve="all" />
     <type fullname="TutorialHandView" preserve="all" />
@@ -151,9 +155,23 @@
     <type fullname="MetaverseTimer" preserve="all" />
     <type fullname="HUDPickLobbyMode" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
+    <type fullname="InventoryTabEquipment" preserve="all" />
     <type fullname="MetaverseLBItemView" preserve="all" />
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
+    <type fullname="PanelPVPCondition" preserve="all" />
+    <type fullname="HUDOpenBoxEquipment" preserve="all" />
+    <type fullname="HUDFriendList" preserve="all" />
+    <type fullname="FriendRequestView" preserve="all" />
+    <type fullname="NotiView" preserve="all" />
+    <type fullname="HUDGemInfo" preserve="all" />
+    <type fullname="FriendInfoView" preserve="all" />
+    <type fullname="PanelFriendRequest" preserve="all" />
+    <type fullname="TrainingPackView" preserve="all" />
+    <type fullname="HUDEquipToMon" preserve="all" />
+    <type fullname="PageHelper" preserve="all" />
+    <type fullname="HUDPurchaseTrainingPack" preserve="all" />
+    <type fullname="HUDAutoBattleReward" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />

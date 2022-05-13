@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "657181552894",
+    "project_id": "binemon-staging",
+    "storage_bucket": "binemon-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657181552894:android:349c4d27a4b37b3659b5af",
+        "android_client_info": {
+          "package_name": "com.binemonteam.binemongame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657181552894-65cegk5emnl0294lvhmebp302sii5ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxAsw2F-L_Y1YFsykdTuWLjlJIlKeCu0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657181552894-65cegk5emnl0294lvhmebp302sii5ku4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657181552894-cedglhqd9juvn6qdp49a05ph6oajj8qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.binemonteam.binemon2022"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657181552894:android:dd04d0e2d4daab0259b5af",
+        "android_client_info": {
+          "package_name": "com.test.binemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657181552894-65cegk5emnl0294lvhmebp302sii5ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxAsw2F-L_Y1YFsykdTuWLjlJIlKeCu0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657181552894-65cegk5emnl0294lvhmebp302sii5ku4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657181552894-cedglhqd9juvn6qdp49a05ph6oajj8qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.binemonteam.binemon2022"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
