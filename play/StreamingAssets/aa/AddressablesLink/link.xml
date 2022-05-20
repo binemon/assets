@@ -67,15 +67,18 @@
     <type fullname="TouchAndDrag" preserve="all" />
     <type fullname="PickRoomCell" preserve="all" />
     <type fullname="HUDSquidGamePlayLimit" preserve="all" />
+    <type fullname="HUDOpenBoxEquipment" preserve="all" />
     <type fullname="HUDSquidGameMatchFailed" preserve="all" />
     <type fullname="HUDSeasonRankUp" preserve="all" />
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
     <type fullname="RivalView" preserve="all" />
+    <type fullname="HUDFriendList" preserve="all" />
     <type fullname="EquipmentView" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
     <type fullname="TabParent" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
+    <type fullname="FriendRequestView" preserve="all" />
     <type fullname="HUDSquidGameResultV2" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
@@ -84,6 +87,7 @@
     <type fullname="HUDUpdateAvatar" preserve="all" />
     <type fullname="HUDUserRename" preserve="all" />
     <type fullname="RollerMat" preserve="all" />
+    <type fullname="NotiView" preserve="all" />
     <type fullname="RecordView" preserve="all" />
     <type fullname="TabView" preserve="all" />
     <type fullname="HUDBattle" preserve="all" />
@@ -111,9 +115,12 @@
     <type fullname="HUDPVECampaign" preserve="all" />
     <type fullname="HUDRankUp" preserve="all" />
     <type fullname="SquidGamePlayerResult" preserve="all" />
+    <type fullname="HUDGemInfo" preserve="all" />
+    <type fullname="FriendInfoView" preserve="all" />
     <type fullname="CameraRaycaster" preserve="all" />
     <type fullname="HUDPromotion" preserve="all" />
     <type fullname="HUDShop" preserve="all" />
+    <type fullname="PVPConditionView" preserve="all" />
     <type fullname="HUDRecordsBattle" preserve="all" />
     <type fullname="HUDEquipSkill" preserve="all" />
     <type fullname="HUDLoading" preserve="all" />
@@ -126,24 +133,31 @@
     <type fullname="HorizontalToggle" preserve="all" />
     <type fullname="PanelMetaverseLeaderboard" preserve="all" />
     <type fullname="TopInfoView" preserve="all" />
+    <type fullname="PanelFriendRequest" preserve="all" />
     <type fullname="HUDAfterFusion" preserve="all" />
     <type fullname="TutorialStepView" preserve="all" />
     <type fullname="RankView" preserve="all" />
+    <type fullname="TrainingPackView" preserve="all" />
     <type fullname="WeeklyRewardCell" preserve="all" />
     <type fullname="EquipmentDetail" preserve="all" />
     <type fullname="HUDSquidGamePickMon" preserve="all" />
     <type fullname="HUDRivalDefense" preserve="all" />
     <type fullname="TutorialHandView" preserve="all" />
+    <type fullname="HUDBlessing" preserve="all" />
     <type fullname="WeeklyRewardLayer" preserve="all" />
     <type fullname="HUDRankReward" preserve="all" />
+    <type fullname="HUDEquipToMon" preserve="all" />
     <type fullname="HUDSquidGameLeaveGame" preserve="all" />
     <type fullname="RankRewardCell" preserve="all" />
     <type fullname="HUDMainMenu" preserve="all" />
     <type fullname="SeasonRewardCell" preserve="all" />
+    <type fullname="PageHelper" preserve="all" />
     <type fullname="HUDSetting" preserve="all" />
     <type fullname="HUDInventory" preserve="all" />
     <type fullname="HUDLogin" preserve="all" />
     <type fullname="ChapterView" preserve="all" />
+    <type fullname="HUDPurchaseTrainingPack" preserve="all" />
+    <type fullname="HUDAutoBattleReward" preserve="all" />
     <type fullname="IconUltimateView" preserve="all" />
     <type fullname="HUDPickRivals" preserve="all" />
     <type fullname="UIShakenEffect" preserve="all" />
@@ -160,18 +174,6 @@
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
     <type fullname="PanelPVPCondition" preserve="all" />
-    <type fullname="HUDOpenBoxEquipment" preserve="all" />
-    <type fullname="HUDFriendList" preserve="all" />
-    <type fullname="FriendRequestView" preserve="all" />
-    <type fullname="NotiView" preserve="all" />
-    <type fullname="HUDGemInfo" preserve="all" />
-    <type fullname="FriendInfoView" preserve="all" />
-    <type fullname="PanelFriendRequest" preserve="all" />
-    <type fullname="TrainingPackView" preserve="all" />
-    <type fullname="HUDEquipToMon" preserve="all" />
-    <type fullname="PageHelper" preserve="all" />
-    <type fullname="HUDPurchaseTrainingPack" preserve="all" />
-    <type fullname="HUDAutoBattleReward" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
@@ -181,9 +183,9 @@
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
-    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
