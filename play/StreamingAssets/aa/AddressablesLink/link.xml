@@ -73,22 +73,29 @@
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
     <type fullname="RivalView" preserve="all" />
+    <type fullname="HUDGuildWorkshop" preserve="all" />
     <type fullname="HUDFriendList" preserve="all" />
+    <type fullname="PanelGuildLogs" preserve="all" />
     <type fullname="EquipmentView" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
     <type fullname="TabParent" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
     <type fullname="FriendRequestView" preserve="all" />
+    <type fullname="AvatarPicker" preserve="all" />
     <type fullname="HUDSquidGameResultV2" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
+    <type fullname="HUDGuildMember" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
     <type fullname="HUDJoinRoom" preserve="all" />
+    <type fullname="HUDGuildWarehouse" preserve="all" />
     <type fullname="RankRewardLayer" preserve="all" />
     <type fullname="HUDUpdateAvatar" preserve="all" />
     <type fullname="HUDUserRename" preserve="all" />
     <type fullname="RollerMat" preserve="all" />
+    <type fullname="GuildRankCell" preserve="all" />
     <type fullname="NotiView" preserve="all" />
     <type fullname="RecordView" preserve="all" />
+    <type fullname="PanelApplication" preserve="all" />
     <type fullname="TabView" preserve="all" />
     <type fullname="HUDBattle" preserve="all" />
     <type fullname="HUDTutorial" preserve="all" />
@@ -104,13 +111,17 @@
     <type fullname="SquidGamePickRoomCell" preserve="all" />
     <type fullname="HUDRename" preserve="all" />
     <type fullname="RankIndexView" preserve="all" />
+    <type fullname="GuildApplicationView" preserve="all" />
+    <type fullname="HUDGuildRegister" preserve="all" />
     <type fullname="HUDMonInventory" preserve="all" />
     <type fullname="HUDMonInfo" preserve="all" />
     <type fullname="HUDPickRoom" preserve="all" />
     <type fullname="CustomTabviewMonClass" preserve="all" />
+    <type fullname="RowEnhancementView" preserve="all" />
     <type fullname="SeasonRewardLayer" preserve="all" />
     <type fullname="UpdateAvatarViewItem" preserve="all" />
     <type fullname="UIFlyingText" preserve="all" />
+    <type fullname="GuildUpgradeColumn" preserve="all" />
     <type fullname="HUDBattlePause" preserve="all" />
     <type fullname="HUDPVECampaign" preserve="all" />
     <type fullname="HUDRankUp" preserve="all" />
@@ -118,24 +129,33 @@
     <type fullname="HUDGemInfo" preserve="all" />
     <type fullname="FriendInfoView" preserve="all" />
     <type fullname="CameraRaycaster" preserve="all" />
+    <type fullname="GuildLogView" preserve="all" />
     <type fullname="HUDPromotion" preserve="all" />
+    <type fullname="PanelCreateGuild" preserve="all" />
     <type fullname="HUDShop" preserve="all" />
     <type fullname="PVPConditionView" preserve="all" />
     <type fullname="HUDRecordsBattle" preserve="all" />
     <type fullname="HUDEquipSkill" preserve="all" />
     <type fullname="HUDLoading" preserve="all" />
+    <type fullname="PanelGuildChangeAvatar" preserve="all" />
     <type fullname="EnhancedUI.EnhancedScroller.EnhancedScroller" preserve="all" />
+    <type fullname="PanelGuildManage" preserve="all" />
     <type fullname="HUDBreakEgg" preserve="all" />
     <type fullname="BinemonStatsView" preserve="all" />
+    <type fullname="PanelGuildContribute" preserve="all" />
     <type fullname="Ez.Examples.AutoRotate" preserve="all" />
     <type fullname="InventoryTabGem" preserve="all" />
     <type fullname="HUDRewardPool" preserve="all" />
+    <type fullname="PanelGuildPool" preserve="all" />
     <type fullname="HorizontalToggle" preserve="all" />
     <type fullname="PanelMetaverseLeaderboard" preserve="all" />
     <type fullname="TopInfoView" preserve="all" />
+    <type fullname="PanelGuildRename" preserve="all" />
     <type fullname="PanelFriendRequest" preserve="all" />
     <type fullname="HUDAfterFusion" preserve="all" />
+    <type fullname="PanelGuildEnhancement" preserve="all" />
     <type fullname="TutorialStepView" preserve="all" />
+    <type fullname="GuildAvatarView" preserve="all" />
     <type fullname="RankView" preserve="all" />
     <type fullname="TrainingPackView" preserve="all" />
     <type fullname="WeeklyRewardCell" preserve="all" />
@@ -145,17 +165,22 @@
     <type fullname="TutorialHandView" preserve="all" />
     <type fullname="HUDBlessing" preserve="all" />
     <type fullname="WeeklyRewardLayer" preserve="all" />
+    <type fullname="HUDGuildRanking" preserve="all" />
     <type fullname="HUDRankReward" preserve="all" />
+    <type fullname="TabViewImage" preserve="all" />
     <type fullname="HUDEquipToMon" preserve="all" />
     <type fullname="HUDSquidGameLeaveGame" preserve="all" />
     <type fullname="RankRewardCell" preserve="all" />
     <type fullname="HUDMainMenu" preserve="all" />
     <type fullname="SeasonRewardCell" preserve="all" />
     <type fullname="PageHelper" preserve="all" />
+    <type fullname="PanelFeature" preserve="all" />
     <type fullname="HUDSetting" preserve="all" />
+    <type fullname="HUDGuildMain" preserve="all" />
     <type fullname="HUDInventory" preserve="all" />
     <type fullname="HUDLogin" preserve="all" />
     <type fullname="ChapterView" preserve="all" />
+    <type fullname="GuildInfoView" preserve="all" />
     <type fullname="HUDPurchaseTrainingPack" preserve="all" />
     <type fullname="HUDAutoBattleReward" preserve="all" />
     <type fullname="IconUltimateView" preserve="all" />
@@ -168,9 +193,12 @@
     <type fullname="HUDFragment" preserve="all" />
     <type fullname="MetaverseTimer" preserve="all" />
     <type fullname="HUDPickLobbyMode" preserve="all" />
+    <type fullname="GuildMemberInfoView" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
     <type fullname="InventoryTabEquipment" preserve="all" />
     <type fullname="MetaverseLBItemView" preserve="all" />
+    <type fullname="PanelGuildUpgrade" preserve="all" />
+    <type fullname="GuildEnhanceView" preserve="all" />
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
     <type fullname="PanelPVPCondition" preserve="all" />
@@ -195,7 +223,9 @@
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
   </assembly>
