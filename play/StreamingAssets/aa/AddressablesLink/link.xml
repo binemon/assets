@@ -60,9 +60,13 @@
     <type fullname="HUDScholarship" preserve="all" />
     <type fullname="HUDBattleResult" preserve="all" />
     <type fullname="MysteryBoxView" preserve="all" />
+    <type fullname="PanelSearchCheater" preserve="all" />
+    <type fullname="PanelReportBug" preserve="all" />
     <type fullname="HUDSquidGameTutorial" preserve="all" />
     <type fullname="LightShafts" preserve="all" />
     <type fullname="HUDCreateRoom" preserve="all" />
+    <type fullname="HUDChallenge" preserve="all" />
+    <type fullname="PushToTalkButton" preserve="all" />
     <type fullname="HUDDialog" preserve="all" />
     <type fullname="TouchAndDrag" preserve="all" />
     <type fullname="PickRoomCell" preserve="all" />
@@ -75,6 +79,7 @@
     <type fullname="RivalView" preserve="all" />
     <type fullname="HUDGuildWorkshop" preserve="all" />
     <type fullname="HUDFriendList" preserve="all" />
+    <type fullname="PanelPickSkill" preserve="all" />
     <type fullname="PanelGuildLogs" preserve="all" />
     <type fullname="EquipmentView" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
@@ -142,10 +147,12 @@
     <type fullname="PanelGuildManage" preserve="all" />
     <type fullname="HUDBreakEgg" preserve="all" />
     <type fullname="BinemonStatsView" preserve="all" />
+    <type fullname="PanelReportCheater" preserve="all" />
     <type fullname="PanelGuildContribute" preserve="all" />
     <type fullname="Ez.Examples.AutoRotate" preserve="all" />
     <type fullname="InventoryTabGem" preserve="all" />
     <type fullname="HUDRewardPool" preserve="all" />
+    <type fullname="PanelPVPChallenge" preserve="all" />
     <type fullname="PanelGuildPool" preserve="all" />
     <type fullname="HorizontalToggle" preserve="all" />
     <type fullname="PanelMetaverseLeaderboard" preserve="all" />
@@ -170,7 +177,9 @@
     <type fullname="TabViewImage" preserve="all" />
     <type fullname="HUDEquipToMon" preserve="all" />
     <type fullname="HUDSquidGameLeaveGame" preserve="all" />
+    <type fullname="HUDReport" preserve="all" />
     <type fullname="RankRewardCell" preserve="all" />
+    <type fullname="ChatPanel" preserve="all" />
     <type fullname="HUDMainMenu" preserve="all" />
     <type fullname="SeasonRewardCell" preserve="all" />
     <type fullname="PageHelper" preserve="all" />
@@ -198,9 +207,11 @@
     <type fullname="InventoryTabEquipment" preserve="all" />
     <type fullname="MetaverseLBItemView" preserve="all" />
     <type fullname="PanelGuildUpgrade" preserve="all" />
+    <type fullname="ChatCellLobby" preserve="all" />
     <type fullname="GuildEnhanceView" preserve="all" />
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
+    <type fullname="SkillView" preserve="all" />
     <type fullname="PanelPVPCondition" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -247,6 +258,11 @@
     <type fullname="UnityEngine.AudioSource" preserve="all" />
     <type fullname="UnityEngine.AudioClip" preserve="all" />
   </assembly>
+  <assembly fullname="LeanTransition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Transition.Method.LeanTransformLocalRotation" preserve="all" />
+    <type fullname="Lean.Transition.Method.LeanRectTransformSizeDelta_y" preserve="all" />
+    <type fullname="Lean.Transition.Method.LeanCanvasGroupAlpha" preserve="all" />
+  </assembly>
   <assembly fullname="UIEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIEffects.UIShiny" preserve="all" />
     <type fullname="Coffee.UIEffects.UIEffect" preserve="all" />
@@ -263,6 +279,10 @@
   <assembly fullname="E7.NotchSolution, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="E7.NotchSolution.SafePadding" preserve="all" />
     <type fullname="E7.NotchSolution.SafeAdaptation" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Gui.LeanHover" preserve="all" />
+    <type fullname="Lean.Gui.LeanToggle" preserve="all" />
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
