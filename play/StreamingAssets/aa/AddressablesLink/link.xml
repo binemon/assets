@@ -16,14 +16,14 @@
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
-    <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
-    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.ComputeShader" preserve="all" />
     <type fullname="UnityEngine.RenderTexture" preserve="all" />
@@ -34,15 +34,8 @@
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.AnimationClip" preserve="all" />
-    <type fullname="UnityEngine.Avatar" preserve="all" />
-    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
-    <type fullname="UnityEngine.Animator" preserve="all" />
-  </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="BinemonObject" preserve="all" />
-    <type fullname="EggObject" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
     <type fullname="UIParticleExtension" preserve="all" />
     <type fullname="ImageAnimation" preserve="all" />
@@ -71,26 +64,34 @@
     <type fullname="TouchAndDrag" preserve="all" />
     <type fullname="PickRoomCell" preserve="all" />
     <type fullname="HUDSquidGamePlayLimit" preserve="all" />
+    <type fullname="PanelMemberWar" preserve="all" />
     <type fullname="HUDOpenBoxEquipment" preserve="all" />
     <type fullname="HUDSquidGameMatchFailed" preserve="all" />
+    <type fullname="EggFragmentView" preserve="all" />
     <type fullname="HUDSeasonRankUp" preserve="all" />
     <type fullname="FusionMonView" preserve="all" />
     <type fullname="HUDFusion" preserve="all" />
     <type fullname="RivalView" preserve="all" />
     <type fullname="HUDGuildWorkshop" preserve="all" />
+    <type fullname="ListGuildWarView" preserve="all" />
     <type fullname="HUDFriendList" preserve="all" />
     <type fullname="PanelPickSkill" preserve="all" />
     <type fullname="PanelGuildLogs" preserve="all" />
     <type fullname="EquipmentView" preserve="all" />
+    <type fullname="GuildWarNotification" preserve="all" />
     <type fullname="HUDUnlockSkill" preserve="all" />
+    <type fullname="ListWarDeclarationView" preserve="all" />
     <type fullname="TabParent" preserve="all" />
+    <type fullname="InventoryTabEgg" preserve="all" />
     <type fullname="HUDCurrencyEffect" preserve="all" />
     <type fullname="FriendRequestView" preserve="all" />
     <type fullname="AvatarPicker" preserve="all" />
     <type fullname="HUDSquidGameResultV2" preserve="all" />
+    <type fullname="MetaverseLobbyLBItemView" preserve="all" />
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="HUDGuildMember" preserve="all" />
     <type fullname="HUDBattleGuide" preserve="all" />
+    <type fullname="EggView" preserve="all" />
     <type fullname="HUDJoinRoom" preserve="all" />
     <type fullname="HUDGuildWarehouse" preserve="all" />
     <type fullname="RankRewardLayer" preserve="all" />
@@ -109,16 +110,21 @@
     <type fullname="HUDLogout" preserve="all" />
     <type fullname="HUDHomeMenu" preserve="all" />
     <type fullname="SkillInfo" preserve="all" />
+    <type fullname="MemberWarView" preserve="all" />
     <type fullname="HUDPVEMap" preserve="all" />
     <type fullname="GemView" preserve="all" />
     <type fullname="FragmentView" preserve="all" />
     <type fullname="EnhancedUI.EnhancedScroller.EnhancedScrollerCellView" preserve="all" />
     <type fullname="SquidGamePickRoomCell" preserve="all" />
     <type fullname="HUDRename" preserve="all" />
+    <type fullname="WarLiveView" preserve="all" />
     <type fullname="RankIndexView" preserve="all" />
     <type fullname="GuildApplicationView" preserve="all" />
     <type fullname="HUDGuildRegister" preserve="all" />
+    <type fullname="PanelAddFriendDetail" preserve="all" />
+    <type fullname="HUDLeaderMember" preserve="all" />
     <type fullname="HUDMonInventory" preserve="all" />
+    <type fullname="WarDeclareView" preserve="all" />
     <type fullname="HUDMonInfo" preserve="all" />
     <type fullname="HUDPickRoom" preserve="all" />
     <type fullname="CustomTabviewMonClass" preserve="all" />
@@ -133,12 +139,14 @@
     <type fullname="SquidGamePlayerResult" preserve="all" />
     <type fullname="HUDGemInfo" preserve="all" />
     <type fullname="FriendInfoView" preserve="all" />
+    <type fullname="PanelWarDeclaration" preserve="all" />
     <type fullname="CameraRaycaster" preserve="all" />
     <type fullname="GuildLogView" preserve="all" />
     <type fullname="HUDPromotion" preserve="all" />
     <type fullname="PanelCreateGuild" preserve="all" />
     <type fullname="HUDShop" preserve="all" />
     <type fullname="PVPConditionView" preserve="all" />
+    <type fullname="HUDPickGuildMode" preserve="all" />
     <type fullname="HUDRecordsBattle" preserve="all" />
     <type fullname="HUDEquipSkill" preserve="all" />
     <type fullname="HUDLoading" preserve="all" />
@@ -148,11 +156,14 @@
     <type fullname="HUDBreakEgg" preserve="all" />
     <type fullname="BinemonStatsView" preserve="all" />
     <type fullname="PanelReportCheater" preserve="all" />
+    <type fullname="PanelWarDeclare" preserve="all" />
     <type fullname="PanelGuildContribute" preserve="all" />
     <type fullname="Ez.Examples.AutoRotate" preserve="all" />
     <type fullname="InventoryTabGem" preserve="all" />
+    <type fullname="EpicToonFX.ETFXRotation" preserve="all" />
     <type fullname="HUDRewardPool" preserve="all" />
     <type fullname="PanelPVPChallenge" preserve="all" />
+    <type fullname="HUDGuildWarLive" preserve="all" />
     <type fullname="PanelGuildPool" preserve="all" />
     <type fullname="HorizontalToggle" preserve="all" />
     <type fullname="PanelMetaverseLeaderboard" preserve="all" />
@@ -168,6 +179,7 @@
     <type fullname="WeeklyRewardCell" preserve="all" />
     <type fullname="EquipmentDetail" preserve="all" />
     <type fullname="HUDSquidGamePickMon" preserve="all" />
+    <type fullname="WarDeclarationView" preserve="all" />
     <type fullname="HUDRivalDefense" preserve="all" />
     <type fullname="TutorialHandView" preserve="all" />
     <type fullname="HUDBlessing" preserve="all" />
@@ -188,11 +200,16 @@
     <type fullname="HUDGuildMain" preserve="all" />
     <type fullname="HUDInventory" preserve="all" />
     <type fullname="HUDLogin" preserve="all" />
+    <type fullname="HUDLastPVPRewards" preserve="all" />
+    <type fullname="ListMyGuildWarView" preserve="all" />
     <type fullname="ChapterView" preserve="all" />
     <type fullname="GuildInfoView" preserve="all" />
     <type fullname="HUDPurchaseTrainingPack" preserve="all" />
+    <type fullname="WarDeclarationNotiView" preserve="all" />
     <type fullname="HUDAutoBattleReward" preserve="all" />
+    <type fullname="WarBettingView" preserve="all" />
     <type fullname="IconUltimateView" preserve="all" />
+    <type fullname="DeclarationAcceptView" preserve="all" />
     <type fullname="HUDPickRivals" preserve="all" />
     <type fullname="UIShakenEffect" preserve="all" />
     <type fullname="StageView" preserve="all" />
@@ -202,6 +219,8 @@
     <type fullname="HUDFragment" preserve="all" />
     <type fullname="MetaverseTimer" preserve="all" />
     <type fullname="HUDPickLobbyMode" preserve="all" />
+    <type fullname="GuildMemberInfoViewSimple" preserve="all" />
+    <type fullname="WarDeclareGroup" preserve="all" />
     <type fullname="GuildMemberInfoView" preserve="all" />
     <type fullname="BattleRewardLayer" preserve="all" />
     <type fullname="InventoryTabEquipment" preserve="all" />
@@ -212,7 +231,17 @@
     <type fullname="CustomGridLayout" preserve="all" />
     <type fullname="HUDBattlePveResult" preserve="all" />
     <type fullname="SkillView" preserve="all" />
+    <type fullname="SwitchToggle" preserve="all" />
     <type fullname="PanelPVPCondition" preserve="all" />
+    <type fullname="HUDFootballGameResult" preserve="all" />
+    <type fullname="HUDLobbyGameResult" preserve="all" />
+    <type fullname="ListPickTeamView" preserve="all" />
+    <type fullname="HUDExpPotion" preserve="all" />
+    <type fullname="LobbyResultItemView" preserve="all" />
+    <type fullname="HUDPickTeam" preserve="all" />
+    <type fullname="PanelPurchaseEXPPotion" preserve="all" />
+    <type fullname="ExpPotionView" preserve="all" />
+    <type fullname="PlayerTeamView" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
@@ -222,12 +251,13 @@
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
-    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
-    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
@@ -237,7 +267,6 @@
     <type fullname="UnityEngine.UI.Shadow" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Outline" preserve="all" />
-    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -250,6 +279,12 @@
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
